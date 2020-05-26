@@ -6028,6 +6028,7 @@ st                <pair id="renameRecognizedOperations">true</pair>
 			<value name="fx">3</value>
 		</list>
 	</param>
+	
 	<param id="offers_config">
 		<pair id="enabled">true</pair>
 		<pair id="offersEnabled">true</pair>
