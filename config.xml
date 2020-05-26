@@ -6031,7 +6031,7 @@ st                <pair id="renameRecognizedOperations">true</pair>
 	<param id="offers_config">
 		<pair id="enabled">true</pair>
 		<pair id="offersEnabled">true</pair>
-        <pair id="pfmGatewayEnabled">true</pair>
+        <pair id="pfmGatewayEnabled">false</pair>
 		<pair id="authGatewayMinMobileVersion">10.14</pair>
         <pair id="offersInDarkThemeEnabled">true</pair>
 		<map id="ratingOffersScreen">
@@ -6798,7 +6798,7 @@ st                <pair id="renameRecognizedOperations">true</pair>
 			</map>
 			<map id="mobile.sberbank.ru">
 				<pair id="offersEnabled">true</pair>
-                <pair id="pfmGatewayEnabled">true</pair>
+                <pair id="pfmGatewayEnabled">false</pair>
 				<pair id="abTestingSuccessScreenEnabled">false</pair>
 				<pair id="defaultDesignSuccessScreen">b</pair>
                 <pair id="universalBannerView">true</pair>
@@ -7067,7 +7067,7 @@ st                <pair id="renameRecognizedOperations">true</pair>
 			</map>
 			<map id="ift-node0-mp.testonline.sberbank.ru">
 				<pair id="offersEnabled">true</pair>
-				<pair id="pfmGatewayEnabled">true</pair>
+				<pair id="pfmGatewayEnabled">false</pair>
 				<pair id="abTestingSuccessScreenEnabled">false</pair>
 				<pair id="defaultDesignSuccessScreen">b</pair>
                 <pair id="universalBannerView">true</pair>
@@ -7187,7 +7187,7 @@ st                <pair id="renameRecognizedOperations">true</pair>
 			</map>
 			<map id="ift-node1-mp.testonline.sberbank.ru">
 				<pair id="offersEnabled">true</pair>
-				<pair id="pfmGatewayEnabled">true</pair>
+				<pair id="pfmGatewayEnabled">false</pair>
 				<pair id="abTestingSuccessScreenEnabled">false</pair>
 				<pair id="defaultDesignSuccessScreen">b</pair>
                 <pair id="universalBannerView">true</pair>
@@ -7319,7 +7319,7 @@ st                <pair id="renameRecognizedOperations">true</pair>
 			</map>
 			<map id="ift-node2-mp.testonline.sberbank.ru">
 				<pair id="offersEnabled">true</pair>
-				<pair id="pfmGatewayEnabled">true</pair>
+				<pair id="pfmGatewayEnabled">false</pair>
 				<pair id="abTestingSuccessScreenEnabled">false</pair>
 				<pair id="defaultDesignSuccessScreen">b</pair>
                 <pair id="universalBannerView">true</pair>
@@ -7456,7 +7456,7 @@ st                <pair id="renameRecognizedOperations">true</pair>
 			</map>
 			<map id="ift-node5-mp.testonline.sberbank.ru">
 				<pair id="offersEnabled">true</pair>
-				<pair id="pfmGatewayEnabled">true</pair>
+				<pair id="pfmGatewayEnabled">false</pair>
 				<pair id="abTestingSuccessScreenEnabled">false</pair>
 				<pair id="defaultDesignSuccessScreen">b</pair>
                 <pair id="universalBannerView">true</pair>
